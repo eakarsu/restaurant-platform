@@ -1,0 +1,916 @@
+[
+  {
+    "id": "ai-documents",
+    "title": "Writing, documents & knowledge",
+    "group": "AI assistants",
+    "path": "/assistants/ai-documents",
+    "featureIds": [
+      "notes",
+      "documents",
+      "templates",
+      "proposal",
+      "verify-email"
+    ],
+    "ai": true,
+    "representativeId": "notes",
+    "description": "One assistant for 5 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "notes",
+        "title": "Notes",
+        "originalPath": "/features/notes"
+      },
+      {
+        "id": "documents",
+        "title": "Documents",
+        "originalPath": "/features/documents"
+      },
+      {
+        "id": "templates",
+        "title": "Templates",
+        "originalPath": "/features/templates"
+      },
+      {
+        "id": "proposal",
+        "title": "Proposal Writer",
+        "originalPath": "/features/proposal"
+      },
+      {
+        "id": "verify-email",
+        "title": "Verify email",
+        "originalPath": "/features/verify-email"
+      }
+    ]
+  },
+  {
+    "id": "ai-general",
+    "title": "General assistance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-general",
+    "featureIds": [
+      "distributor-agreement-library",
+      "territory-account-mapping",
+      "depletion-report-ingestion",
+      "volume-tier-calculation",
+      "billback-calculation",
+      "claim-approval-workflow",
+      "accrual-true-up",
+      "menu",
+      "admin-reviews",
+      "admin-wait-time",
+      "sustainability",
+      "supplier-agreement-library",
+      "item-and-category-master",
+      "purchase-and-receipt-ingestion",
+      "volume-tier-qualification",
+      "growth-incentive-calculation",
+      "new-location-allowance-tracking",
+      "promotional-allowance-calculation",
+      "private-label-incentive-tracking",
+      "rebate-accrual-accounting",
+      "claim-generation",
+      "supplier-response-management",
+      "supplier-and-category-yield-analytics",
+      "broker-agreement-library",
+      "territory-customer-mapping",
+      "distributor-depletion-ingestion",
+      "returns-deduction",
+      "promotion-exclusion",
+      "broker-dispute-workflow",
+      "broker-territory-analytics",
+      "platform-agreement-library",
+      "order-ingestion",
+      "promotion-funding-allocation",
+      "platform-dispute-workflow",
+      "supplier-program-library",
+      "approved-product-registry",
+      "franchise-location-mapping",
+      "distributor-purchase-ingestion",
+      "net-eligible-volume",
+      "growth-incentive",
+      "return-spoilage-exclusion",
+      "rebate-accrual-ledger",
+      "dispute-workflow",
+      "inventory",
+      "waste",
+      "scaling",
+      "nutrition",
+      "seasonal",
+      "fermentation-deviation",
+      "lab",
+      "auto-po-list",
+      "forecast-scheduler-run",
+      "ghost-kitchen-site-selection-ai",
+      "ingredient-substitution-ai",
+      "menu-pairings",
+      "quote",
+      "dietary",
+      "followup",
+      "review",
+      "timeline",
+      "generic-ordering-service-enhanced",
+      "restaurant-ai-run"
+    ],
+    "ai": true,
+    "representativeId": "distributor-agreement-library",
+    "description": "One assistant for 62 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "distributor-agreement-library",
+        "title": "Distributor agreement library",
+        "originalPath": "/features/distributor-agreement-library"
+      },
+      {
+        "id": "territory-account-mapping",
+        "title": "Territory account mapping",
+        "originalPath": "/features/territory-account-mapping"
+      },
+      {
+        "id": "depletion-report-ingestion",
+        "title": "Depletion report ingestion",
+        "originalPath": "/features/depletion-report-ingestion"
+      },
+      {
+        "id": "volume-tier-calculation",
+        "title": "Volume tier calculation",
+        "originalPath": "/features/volume-tier-calculation"
+      },
+      {
+        "id": "billback-calculation",
+        "title": "Billback calculation",
+        "originalPath": "/features/billback-calculation"
+      },
+      {
+        "id": "claim-approval-workflow",
+        "title": "Claim approval workflow",
+        "originalPath": "/features/claim-approval-workflow"
+      },
+      {
+        "id": "accrual-true-up",
+        "title": "Accrual true-up",
+        "originalPath": "/features/accrual-true-up"
+      },
+      {
+        "id": "menu",
+        "title": "Menu",
+        "originalPath": "/features/menu"
+      },
+      {
+        "id": "admin-reviews",
+        "title": "Reviews",
+        "originalPath": "/features/admin-reviews"
+      },
+      {
+        "id": "admin-wait-time",
+        "title": "Wait time",
+        "originalPath": "/features/admin-wait-time"
+      },
+      {
+        "id": "sustainability",
+        "title": "Sustainability",
+        "originalPath": "/features/sustainability"
+      },
+      {
+        "id": "supplier-agreement-library",
+        "title": "Supplier agreement library",
+        "originalPath": "/features/supplier-agreement-library"
+      },
+      {
+        "id": "item-and-category-master",
+        "title": "Item and category master",
+        "originalPath": "/features/item-and-category-master"
+      },
+      {
+        "id": "purchase-and-receipt-ingestion",
+        "title": "Purchase and receipt ingestion",
+        "originalPath": "/features/purchase-and-receipt-ingestion"
+      },
+      {
+        "id": "volume-tier-qualification",
+        "title": "Volume-tier qualification",
+        "originalPath": "/features/volume-tier-qualification"
+      },
+      {
+        "id": "growth-incentive-calculation",
+        "title": "Growth incentive calculation",
+        "originalPath": "/features/growth-incentive-calculation"
+      },
+      {
+        "id": "new-location-allowance-tracking",
+        "title": "New-location allowance tracking",
+        "originalPath": "/features/new-location-allowance-tracking"
+      },
+      {
+        "id": "promotional-allowance-calculation",
+        "title": "Promotional allowance calculation",
+        "originalPath": "/features/promotional-allowance-calculation"
+      },
+      {
+        "id": "private-label-incentive-tracking",
+        "title": "Private-label incentive tracking",
+        "originalPath": "/features/private-label-incentive-tracking"
+      },
+      {
+        "id": "rebate-accrual-accounting",
+        "title": "Rebate accrual accounting",
+        "originalPath": "/features/rebate-accrual-accounting"
+      },
+      {
+        "id": "claim-generation",
+        "title": "Claim generation",
+        "originalPath": "/features/claim-generation"
+      },
+      {
+        "id": "supplier-response-management",
+        "title": "Supplier response management",
+        "originalPath": "/features/supplier-response-management"
+      },
+      {
+        "id": "supplier-and-category-yield-analytics",
+        "title": "Supplier and category yield analytics",
+        "originalPath": "/features/supplier-and-category-yield-analytics"
+      },
+      {
+        "id": "broker-agreement-library",
+        "title": "Broker agreement library",
+        "originalPath": "/features/broker-agreement-library"
+      },
+      {
+        "id": "territory-customer-mapping",
+        "title": "Territory customer mapping",
+        "originalPath": "/features/territory-customer-mapping"
+      },
+      {
+        "id": "distributor-depletion-ingestion",
+        "title": "Distributor depletion ingestion",
+        "originalPath": "/features/distributor-depletion-ingestion"
+      },
+      {
+        "id": "returns-deduction",
+        "title": "Returns deduction",
+        "originalPath": "/features/returns-deduction"
+      },
+      {
+        "id": "promotion-exclusion",
+        "title": "Promotion exclusion",
+        "originalPath": "/features/promotion-exclusion"
+      },
+      {
+        "id": "broker-dispute-workflow",
+        "title": "Broker dispute workflow",
+        "originalPath": "/features/broker-dispute-workflow"
+      },
+      {
+        "id": "broker-territory-analytics",
+        "title": "Broker territory analytics",
+        "originalPath": "/features/broker-territory-analytics"
+      },
+      {
+        "id": "platform-agreement-library",
+        "title": "Platform agreement library",
+        "originalPath": "/features/platform-agreement-library"
+      },
+      {
+        "id": "order-ingestion",
+        "title": "Order ingestion",
+        "originalPath": "/features/order-ingestion"
+      },
+      {
+        "id": "promotion-funding-allocation",
+        "title": "Promotion funding allocation",
+        "originalPath": "/features/promotion-funding-allocation"
+      },
+      {
+        "id": "platform-dispute-workflow",
+        "title": "Platform dispute workflow",
+        "originalPath": "/features/platform-dispute-workflow"
+      },
+      {
+        "id": "supplier-program-library",
+        "title": "Supplier program library",
+        "originalPath": "/features/supplier-program-library"
+      },
+      {
+        "id": "approved-product-registry",
+        "title": "Approved product registry",
+        "originalPath": "/features/approved-product-registry"
+      },
+      {
+        "id": "franchise-location-mapping",
+        "title": "Franchise location mapping",
+        "originalPath": "/features/franchise-location-mapping"
+      },
+      {
+        "id": "distributor-purchase-ingestion",
+        "title": "Distributor purchase ingestion",
+        "originalPath": "/features/distributor-purchase-ingestion"
+      },
+      {
+        "id": "net-eligible-volume",
+        "title": "Net eligible volume",
+        "originalPath": "/features/net-eligible-volume"
+      },
+      {
+        "id": "growth-incentive",
+        "title": "Growth incentive",
+        "originalPath": "/features/growth-incentive"
+      },
+      {
+        "id": "return-spoilage-exclusion",
+        "title": "Return spoilage exclusion",
+        "originalPath": "/features/return-spoilage-exclusion"
+      },
+      {
+        "id": "rebate-accrual-ledger",
+        "title": "Rebate accrual ledger",
+        "originalPath": "/features/rebate-accrual-ledger"
+      },
+      {
+        "id": "dispute-workflow",
+        "title": "Dispute workflow",
+        "originalPath": "/features/dispute-workflow"
+      },
+      {
+        "id": "inventory",
+        "title": "Ingredients",
+        "originalPath": "/features/inventory"
+      },
+      {
+        "id": "waste",
+        "title": "Waste Tracking",
+        "originalPath": "/features/waste"
+      },
+      {
+        "id": "scaling",
+        "title": "Recipe Scaling AI",
+        "originalPath": "/features/scaling"
+      },
+      {
+        "id": "nutrition",
+        "title": "Nutrition Label AI",
+        "originalPath": "/features/nutrition"
+      },
+      {
+        "id": "seasonal",
+        "title": "Seasonal Menu AI",
+        "originalPath": "/features/seasonal"
+      },
+      {
+        "id": "fermentation-deviation",
+        "title": "Fermentation deviation",
+        "originalPath": "/features/fermentation-deviation"
+      },
+      {
+        "id": "lab",
+        "title": "Lab",
+        "originalPath": "/features/lab"
+      },
+      {
+        "id": "auto-po-list",
+        "title": "List",
+        "originalPath": "/features/auto-po-list"
+      },
+      {
+        "id": "forecast-scheduler-run",
+        "title": "Run",
+        "originalPath": "/features/forecast-scheduler-run"
+      },
+      {
+        "id": "ghost-kitchen-site-selection-ai",
+        "title": "ghost kitchen site selection ai",
+        "originalPath": "/features/ghost-kitchen-site-selection-ai"
+      },
+      {
+        "id": "ingredient-substitution-ai",
+        "title": "ingredient substitution ai",
+        "originalPath": "/features/ingredient-substitution-ai"
+      },
+      {
+        "id": "menu-pairings",
+        "title": "Menu pairings",
+        "originalPath": "/features/menu-pairings"
+      },
+      {
+        "id": "quote",
+        "title": "Quote Generator",
+        "originalPath": "/features/quote"
+      },
+      {
+        "id": "dietary",
+        "title": "Dietary Planner",
+        "originalPath": "/features/dietary"
+      },
+      {
+        "id": "followup",
+        "title": "Follow-up Generator",
+        "originalPath": "/features/followup"
+      },
+      {
+        "id": "review",
+        "title": "Review Request",
+        "originalPath": "/features/review"
+      },
+      {
+        "id": "timeline",
+        "title": "Timeline Generator",
+        "originalPath": "/features/timeline"
+      },
+      {
+        "id": "generic-ordering-service-enhanced",
+        "title": "Generic ordering service enhanced work",
+        "originalPath": "/features/generic-ordering-service-enhanced"
+      },
+      {
+        "id": "restaurant-ai-run",
+        "title": "Restaurant ai run",
+        "originalPath": "/features/restaurant-ai-run"
+      }
+    ]
+  },
+  {
+    "id": "ai-growth",
+    "title": "Marketing & customer growth",
+    "group": "AI assistants",
+    "path": "/assistants/ai-growth",
+    "featureIds": [
+      "brand-sku-registry",
+      "brand-distributor-analytics",
+      "admin-gap-ai-churn-prediction",
+      "gross-sales-calculation",
+      "net-sales-calculation",
+      "restaurant-and-brand-registry",
+      "brand-platform-and-location-analytics",
+      "marketing-allowance",
+      "brand-supplier-analytics",
+      "marketing",
+      "sentiment-analysis"
+    ],
+    "ai": true,
+    "representativeId": "brand-sku-registry",
+    "description": "One assistant for 11 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "brand-sku-registry",
+        "title": "Brand SKU registry",
+        "originalPath": "/features/brand-sku-registry"
+      },
+      {
+        "id": "brand-distributor-analytics",
+        "title": "Brand distributor analytics",
+        "originalPath": "/features/brand-distributor-analytics"
+      },
+      {
+        "id": "admin-gap-ai-churn-prediction",
+        "title": "Churn prediction",
+        "originalPath": "/features/admin-gap-ai-churn-prediction"
+      },
+      {
+        "id": "gross-sales-calculation",
+        "title": "Gross sales calculation",
+        "originalPath": "/features/gross-sales-calculation"
+      },
+      {
+        "id": "net-sales-calculation",
+        "title": "Net sales calculation",
+        "originalPath": "/features/net-sales-calculation"
+      },
+      {
+        "id": "restaurant-and-brand-registry",
+        "title": "Restaurant and brand registry",
+        "originalPath": "/features/restaurant-and-brand-registry"
+      },
+      {
+        "id": "brand-platform-and-location-analytics",
+        "title": "Brand platform and location analytics",
+        "originalPath": "/features/brand-platform-and-location-analytics"
+      },
+      {
+        "id": "marketing-allowance",
+        "title": "Marketing allowance",
+        "originalPath": "/features/marketing-allowance"
+      },
+      {
+        "id": "brand-supplier-analytics",
+        "title": "Brand supplier analytics",
+        "originalPath": "/features/brand-supplier-analytics"
+      },
+      {
+        "id": "marketing",
+        "title": "Marketing Copy AI",
+        "originalPath": "/features/marketing"
+      },
+      {
+        "id": "sentiment-analysis",
+        "title": "Sentiment Analysis",
+        "originalPath": "/features/sentiment-analysis"
+      }
+    ]
+  },
+  {
+    "id": "ai-quality",
+    "title": "Risk, quality & compliance",
+    "group": "AI assistants",
+    "path": "/assistants/ai-quality",
+    "featureIds": [
+      "account-eligibility-validation",
+      "promotional-period-control",
+      "display-allowance-evidence",
+      "admin-gap-ai-fraud-detection",
+      "freight-and-fuel-allowance-audit",
+      "product-eligibility-registry",
+      "draw-recovery-control",
+      "cancellation-validation",
+      "supplier-statement-audit",
+      "quality"
+    ],
+    "ai": true,
+    "representativeId": "account-eligibility-validation",
+    "description": "One assistant for 10 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "account-eligibility-validation",
+        "title": "Account eligibility validation",
+        "originalPath": "/features/account-eligibility-validation"
+      },
+      {
+        "id": "promotional-period-control",
+        "title": "Promotional period control",
+        "originalPath": "/features/promotional-period-control"
+      },
+      {
+        "id": "display-allowance-evidence",
+        "title": "Display allowance evidence",
+        "originalPath": "/features/display-allowance-evidence"
+      },
+      {
+        "id": "admin-gap-ai-fraud-detection",
+        "title": "Fraud detection",
+        "originalPath": "/features/admin-gap-ai-fraud-detection"
+      },
+      {
+        "id": "freight-and-fuel-allowance-audit",
+        "title": "Freight and fuel allowance audit",
+        "originalPath": "/features/freight-and-fuel-allowance-audit"
+      },
+      {
+        "id": "product-eligibility-registry",
+        "title": "Product eligibility registry",
+        "originalPath": "/features/product-eligibility-registry"
+      },
+      {
+        "id": "draw-recovery-control",
+        "title": "Draw recovery control",
+        "originalPath": "/features/draw-recovery-control"
+      },
+      {
+        "id": "cancellation-validation",
+        "title": "Cancellation validation",
+        "originalPath": "/features/cancellation-validation"
+      },
+      {
+        "id": "supplier-statement-audit",
+        "title": "Supplier statement audit",
+        "originalPath": "/features/supplier-statement-audit"
+      },
+      {
+        "id": "quality",
+        "title": "Batch Quality AI",
+        "originalPath": "/features/quality"
+      }
+    ]
+  },
+  {
+    "id": "ai-insights",
+    "title": "Insights & recommendations",
+    "group": "AI assistants",
+    "path": "/assistants/ai-insights",
+    "featureIds": [
+      "duplicate-claim-detection",
+      "distributor-deduction-matching",
+      "admin-predictive-inventory",
+      "admin-staff-optimizer",
+      "recommendations",
+      "admin-gap-ai-demand-forecasting",
+      "admin-gap-ai-menu-recommendation-cold",
+      "supplier-statement-matching",
+      "pos-order-matching",
+      "forecast",
+      "seasonal-forecast",
+      "bottleneck",
+      "demand-forecast",
+      "workforce-burnout-prediction-based-on-la",
+      "dish-recommender",
+      "recommend",
+      "purchase-recommend",
+      "auction-predict",
+      "logistics",
+      "satisfaction-prediction"
+    ],
+    "ai": true,
+    "representativeId": "duplicate-claim-detection",
+    "description": "One assistant for 20 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "duplicate-claim-detection",
+        "title": "Duplicate claim detection",
+        "originalPath": "/features/duplicate-claim-detection"
+      },
+      {
+        "id": "distributor-deduction-matching",
+        "title": "Distributor deduction matching",
+        "originalPath": "/features/distributor-deduction-matching"
+      },
+      {
+        "id": "admin-predictive-inventory",
+        "title": "Predictive inventory",
+        "originalPath": "/features/admin-predictive-inventory"
+      },
+      {
+        "id": "admin-staff-optimizer",
+        "title": "Staff optimizer",
+        "originalPath": "/features/admin-staff-optimizer"
+      },
+      {
+        "id": "recommendations",
+        "title": "Recommendations",
+        "originalPath": "/features/recommendations"
+      },
+      {
+        "id": "admin-gap-ai-demand-forecasting",
+        "title": "Demand forecasting",
+        "originalPath": "/features/admin-gap-ai-demand-forecasting"
+      },
+      {
+        "id": "admin-gap-ai-menu-recommendation-cold",
+        "title": "Menu recommendation cold",
+        "originalPath": "/features/admin-gap-ai-menu-recommendation-cold"
+      },
+      {
+        "id": "supplier-statement-matching",
+        "title": "Supplier statement matching",
+        "originalPath": "/features/supplier-statement-matching"
+      },
+      {
+        "id": "pos-order-matching",
+        "title": "POS order matching",
+        "originalPath": "/features/pos-order-matching"
+      },
+      {
+        "id": "forecast",
+        "title": "Demand Forecast AI",
+        "originalPath": "/features/forecast"
+      },
+      {
+        "id": "seasonal-forecast",
+        "title": "Seasonal Forecast AI",
+        "originalPath": "/features/seasonal-forecast"
+      },
+      {
+        "id": "bottleneck",
+        "title": "Bottleneck Detector AI",
+        "originalPath": "/features/bottleneck"
+      },
+      {
+        "id": "demand-forecast",
+        "title": "Demand Forecast",
+        "originalPath": "/features/demand-forecast"
+      },
+      {
+        "id": "workforce-burnout-prediction-based-on-la",
+        "title": "workforce burnout prediction based on la",
+        "originalPath": "/features/workforce-burnout-prediction-based-on-la"
+      },
+      {
+        "id": "dish-recommender",
+        "title": "Recommend",
+        "originalPath": "/features/dish-recommender"
+      },
+      {
+        "id": "recommend",
+        "title": "AI Dish Recommender",
+        "originalPath": "/features/recommend"
+      },
+      {
+        "id": "purchase-recommend",
+        "title": "Purchase recommend",
+        "originalPath": "/features/purchase-recommend"
+      },
+      {
+        "id": "auction-predict",
+        "title": "Auction predict",
+        "originalPath": "/features/auction-predict"
+      },
+      {
+        "id": "logistics",
+        "title": "Logistics Optimizer",
+        "originalPath": "/features/logistics"
+      },
+      {
+        "id": "satisfaction-prediction",
+        "title": "Satisfaction prediction",
+        "originalPath": "/features/satisfaction-prediction"
+      }
+    ]
+  },
+  {
+    "id": "ai-finance",
+    "title": "Finance & reconciliation",
+    "group": "AI assistants",
+    "path": "/assistants/ai-finance",
+    "featureIds": [
+      "credit-memo-reconciliation",
+      "admin-dynamic-pricing",
+      "deviated-pricing-reconciliation",
+      "credit-and-cash-reconciliation",
+      "commission-tier-calculation",
+      "statement-reconciliation",
+      "duplicate-commission-detection",
+      "payment-correction",
+      "commission-rate-validation",
+      "delivery-and-service-fee-audit",
+      "refund-responsibility-analysis",
+      "menu-price-and-tax-reconciliation",
+      "sponsored-listing-fee-audit",
+      "chargeback-reconciliation",
+      "settlement-statement-audit",
+      "recovered-settlement-ledger",
+      "quality-shortfall-credit",
+      "cash-credit-reconciliation",
+      "cost",
+      "costs",
+      "cost-analysis",
+      "price"
+    ],
+    "ai": true,
+    "representativeId": "credit-memo-reconciliation",
+    "description": "One assistant for 22 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "credit-memo-reconciliation",
+        "title": "Credit memo reconciliation",
+        "originalPath": "/features/credit-memo-reconciliation"
+      },
+      {
+        "id": "admin-dynamic-pricing",
+        "title": "Dynamic pricing",
+        "originalPath": "/features/admin-dynamic-pricing"
+      },
+      {
+        "id": "deviated-pricing-reconciliation",
+        "title": "Deviated pricing reconciliation",
+        "originalPath": "/features/deviated-pricing-reconciliation"
+      },
+      {
+        "id": "credit-and-cash-reconciliation",
+        "title": "Credit and cash reconciliation",
+        "originalPath": "/features/credit-and-cash-reconciliation"
+      },
+      {
+        "id": "commission-tier-calculation",
+        "title": "Commission tier calculation",
+        "originalPath": "/features/commission-tier-calculation"
+      },
+      {
+        "id": "statement-reconciliation",
+        "title": "Statement reconciliation",
+        "originalPath": "/features/statement-reconciliation"
+      },
+      {
+        "id": "duplicate-commission-detection",
+        "title": "Duplicate commission detection",
+        "originalPath": "/features/duplicate-commission-detection"
+      },
+      {
+        "id": "payment-correction",
+        "title": "Payment correction",
+        "originalPath": "/features/payment-correction"
+      },
+      {
+        "id": "commission-rate-validation",
+        "title": "Commission-rate validation",
+        "originalPath": "/features/commission-rate-validation"
+      },
+      {
+        "id": "delivery-and-service-fee-audit",
+        "title": "Delivery and service-fee audit",
+        "originalPath": "/features/delivery-and-service-fee-audit"
+      },
+      {
+        "id": "refund-responsibility-analysis",
+        "title": "Refund responsibility analysis",
+        "originalPath": "/features/refund-responsibility-analysis"
+      },
+      {
+        "id": "menu-price-and-tax-reconciliation",
+        "title": "Menu price and tax reconciliation",
+        "originalPath": "/features/menu-price-and-tax-reconciliation"
+      },
+      {
+        "id": "sponsored-listing-fee-audit",
+        "title": "Sponsored-listing fee audit",
+        "originalPath": "/features/sponsored-listing-fee-audit"
+      },
+      {
+        "id": "chargeback-reconciliation",
+        "title": "Chargeback reconciliation",
+        "originalPath": "/features/chargeback-reconciliation"
+      },
+      {
+        "id": "settlement-statement-audit",
+        "title": "Settlement statement audit",
+        "originalPath": "/features/settlement-statement-audit"
+      },
+      {
+        "id": "recovered-settlement-ledger",
+        "title": "Recovered settlement ledger",
+        "originalPath": "/features/recovered-settlement-ledger"
+      },
+      {
+        "id": "quality-shortfall-credit",
+        "title": "Quality shortfall credit",
+        "originalPath": "/features/quality-shortfall-credit"
+      },
+      {
+        "id": "cash-credit-reconciliation",
+        "title": "Cash credit reconciliation",
+        "originalPath": "/features/cash-credit-reconciliation"
+      },
+      {
+        "id": "cost",
+        "title": "Cost Analysis AI",
+        "originalPath": "/features/cost"
+      },
+      {
+        "id": "costs",
+        "title": "Cost Analytics",
+        "originalPath": "/features/costs"
+      },
+      {
+        "id": "cost-analysis",
+        "title": "AI Cost Analysis",
+        "originalPath": "/features/cost-analysis"
+      },
+      {
+        "id": "price",
+        "title": "AI Price Optimizer",
+        "originalPath": "/features/price"
+      }
+    ]
+  },
+  {
+    "id": "ai-planning",
+    "title": "Planning & scheduling",
+    "group": "AI assistants",
+    "path": "/assistants/ai-planning",
+    "featureIds": [
+      "admin-gap-ai-driver-route-optimization",
+      "staff",
+      "staffing-prediction"
+    ],
+    "ai": true,
+    "representativeId": "admin-gap-ai-driver-route-optimization",
+    "description": "One assistant for 3 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "admin-gap-ai-driver-route-optimization",
+        "title": "Driver route optimization",
+        "originalPath": "/features/admin-gap-ai-driver-route-optimization"
+      },
+      {
+        "id": "staff",
+        "title": "Staff Scheduling",
+        "originalPath": "/features/staff"
+      },
+      {
+        "id": "staffing-prediction",
+        "title": "Staffing prediction",
+        "originalPath": "/features/staffing-prediction"
+      }
+    ]
+  },
+  {
+    "id": "ai-creative",
+    "title": "Creative & design",
+    "group": "AI assistants",
+    "path": "/assistants/ai-creative",
+    "featureIds": [
+      "cake",
+      "history"
+    ],
+    "ai": true,
+    "representativeId": "cake",
+    "description": "One assistant for 2 related capabilities. Choose the work you need and combine your questions.",
+    "capabilities": [
+      {
+        "id": "cake",
+        "title": "Cake Design AI",
+        "originalPath": "/features/cake"
+      },
+      {
+        "id": "history",
+        "title": "AI History",
+        "originalPath": "/features/history"
+      }
+    ]
+  }
+]

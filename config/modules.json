@@ -1,0 +1,128 @@
+[
+  {
+    "id": "ai-beverage-depletion-allowance-reconciliation",
+    "name": "Beverage depletion allowance reconciliation",
+    "sourceProject": "ai-beverage-depletion-allowance-reconciliation",
+    "services": []
+  },
+  {
+    "id": "ai-food-flow-order",
+    "name": "Food flow order",
+    "sourceProject": "ai-food-flow-order",
+    "services": []
+  },
+  {
+    "id": "ai-foodservice-distributor-rebate-recovery",
+    "name": "Foodservice distributor rebate recovery",
+    "sourceProject": "ai-foodservice-distributor-rebate-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-foodservice-manufacturer-broker-commission-audit",
+    "name": "Foodservice manufacturer broker commission audit",
+    "sourceProject": "ai-foodservice-manufacturer-broker-commission-audit",
+    "services": []
+  },
+  {
+    "id": "ai-restaurant-delivery-platform-commission-recovery",
+    "name": "Restaurant delivery platform commission recovery",
+    "sourceProject": "ai-restaurant-delivery-platform-commission-recovery",
+    "services": []
+  },
+  {
+    "id": "ai-restaurant-franchise-food-cost-rebate-recovery",
+    "name": "Restaurant franchise food cost rebate recovery",
+    "sourceProject": "ai-restaurant-franchise-food-cost-rebate-recovery",
+    "services": []
+  },
+  {
+    "id": "AIBakeryProductionManager",
+    "name": "Bakery production manager",
+    "sourceProject": "AIBakeryProductionManager",
+    "services": []
+  },
+  {
+    "id": "AIBreweryCraftBeverageOps",
+    "name": "Brewery craft beverage ops",
+    "sourceProject": "AIBreweryCraftBeverageOps",
+    "services": []
+  },
+  {
+    "id": "AICommercialKitchenEquipmentMaintenance",
+    "name": "Commercial kitchen equipment maintenance",
+    "sourceProject": "AICommercialKitchenEquipmentMaintenance",
+    "services": []
+  },
+  {
+    "id": "AIGhostKitchenNetworkManager",
+    "name": "Ghost kitchen network manager",
+    "sourceProject": "AIGhostKitchenNetworkManager",
+    "services": []
+  },
+  {
+    "id": "AIMenuDigitizer",
+    "name": "Menu digitizer",
+    "sourceProject": "AIMenuDigitizer",
+    "services": []
+  },
+  {
+    "id": "AIWineSpiritsinventorySommelier",
+    "name": "Wine spiritsinventory sommelier",
+    "sourceProject": "AIWineSpiritsinventorySommelier",
+    "services": []
+  },
+  {
+    "id": "cateringService",
+    "name": "Catering service",
+    "sourceProject": "cateringService",
+    "services": []
+  },
+  {
+    "id": "food-safety-recall-management-suite",
+    "name": "Food safety recall management suite",
+    "sourceProject": "food-safety-recall-management-suite",
+    "services": []
+  },
+  {
+    "id": "FoodOrderingWebSite",
+    "name": "Food ordering web site",
+    "sourceProject": "FoodOrderingWebSite",
+    "services": []
+  },
+  {
+    "id": "footTruck",
+    "name": "Foot truck",
+    "sourceProject": "footTruck",
+    "services": []
+  },
+  {
+    "id": "GenericOrderingServiceEnhanced",
+    "name": "Generic ordering service enhanced",
+    "sourceProject": "GenericOrderingServiceEnhanced",
+    "services": []
+  },
+  {
+    "id": "genericServiceOrder",
+    "name": "Generic service order",
+    "sourceProject": "genericServiceOrder",
+    "services": []
+  },
+  {
+    "id": "independentRestaurant",
+    "name": "Independent restaurant",
+    "sourceProject": "independentRestaurant",
+    "services": []
+  },
+  {
+    "id": "OrderingServiceText2",
+    "name": "Ordering service text2",
+    "sourceProject": "OrderingServiceText2",
+    "services": []
+  },
+  {
+    "id": "test_food",
+    "name": "Test food",
+    "sourceProject": "test_food",
+    "services": []
+  }
+]

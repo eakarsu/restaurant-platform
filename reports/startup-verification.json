@@ -1,0 +1,8 @@
+{
+  "id": "restaurant-platform",
+  "port": 46044,
+  "status": "passed",
+  "startScript": true,
+  "health": true,
+  "verifiedAt": "2026-09-07T14:38:49.332Z"
+}

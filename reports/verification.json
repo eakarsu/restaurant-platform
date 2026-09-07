@@ -1,0 +1,18 @@
+{
+  "id": "restaurant-platform",
+  "status": "passed",
+  "features": 346,
+  "editableTables": 344,
+  "minimumRows": 15,
+  "repeatSeedCreated": 0,
+  "crud": true,
+  "persistence": true,
+  "relationships": true,
+  "revisions": true,
+  "attachments": true,
+  "exports": true,
+  "mockedAI": true,
+  "originProtection": true,
+  "sourceCalculationsExecuted": 16,
+  "verifiedAt": "2026-09-07T22:06:01.445Z"
+}

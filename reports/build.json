@@ -1,0 +1,9 @@
+{
+  "app": "restaurant-platform",
+  "features": 346,
+  "sourceApps": 21,
+  "calculatorEngines": 1,
+  "registryHash": "5f76be899fc09e5f71c3320c17e0da6310021115f6fe83503176995f1337c11d",
+  "builtAt": "2026-09-07T22:06:00.776Z",
+  "status": "built"
+}

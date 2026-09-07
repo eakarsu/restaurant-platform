@@ -1,0 +1,3728 @@
+{
+  "mapped": [
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "distributor-agreement-library",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "distributor-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "brand-sku-registry",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "brand-sku-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "territory-account-mapping",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "territory-account-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "depletion-report-ingestion",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "depletion-report-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "account-eligibility-validation",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "account-eligibility-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "promotional-period-control",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "promotional-period-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "billback-calculation",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "billback-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "display-allowance-evidence",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "display-allowance-evidence",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "duplicate-claim-detection",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "duplicate-claim-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "distributor-deduction-matching",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "distributor-deduction-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "claim-approval-workflow",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "claim-approval-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "credit-memo-reconciliation",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "credit-memo-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "accrual-true-up",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "accrual-true-up",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "brand-distributor-analytics",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/app.config.mjs",
+      "canonical": "brand-distributor-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "101",
+      "source": "/Volumes/external/projects/ai-food-flow-order/src/pages/Index.tsx",
+      "canonical": "101",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "102",
+      "source": "/Volumes/external/projects/ai-food-flow-order/src/pages/Index.tsx",
+      "canonical": "102",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "103",
+      "source": "/Volumes/external/projects/ai-food-flow-order/src/pages/Index.tsx",
+      "canonical": "103",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "104",
+      "source": "/Volumes/external/projects/ai-food-flow-order/src/pages/Index.tsx",
+      "canonical": "104",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "restaurants",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "restaurants",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "how-it-works",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "how-it-works",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "faq",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "faq",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "menu",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "menu",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "blog",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "blog",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "automated-calls",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "automated-calls",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/dashboard",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-dashboard",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/inventory",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-inventory",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/staff",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-staff",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/schedules",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-schedules",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/reviews",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-reviews",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/wait-time",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-wait-time",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/upsell",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-upsell",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/dynamic-pricing",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/predictive-inventory",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-predictive-inventory",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/staff-optimizer",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-staff-optimizer",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/affiliate-network",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-affiliate-network",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "recommendations",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "recommendations",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "sustainability",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "sustainability",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "voice-order",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "voice-order",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "group-order",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "group-order",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/ai-demand-forecasting",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-ai-demand-forecasting",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/ai-driver-route-optimization",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-ai-driver-route-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/ai-menu-recommendation-cold",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-ai-menu-recommendation-cold",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/ai-fraud-detection",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-ai-fraud-detection",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/ai-churn-prediction",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-ai-churn-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/ai-dynamic-pricing",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/dynamic-surge-pricing",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-dynamic-surge-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/loyalty-rewards",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-loyalty-rewards",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/affiliate-payouts",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-affiliate-payouts",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/restaurant-health-score",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-restaurant-health-score",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/kds-integration",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-kds-integration",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/outbound-webhooks",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-outbound-webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/multimodal-intake",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-multimodal-intake",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/driver-incentive",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-driver-incentive",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/post-delivery-feedback",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-post-delivery-feedback",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/supply-warnings",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-supply-warnings",
+      "kind": "route"
+    },
+    {
+      "project": "ai-food-flow-order",
+      "sourceKey": "admin/gap/kds-streaming",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "canonical": "admin-gap-kds-streaming",
+      "kind": "route"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "supplier-agreement-library",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "item-and-category-master",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "item-and-category-master",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "purchase-and-receipt-ingestion",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "purchase-and-receipt-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "volume-tier-qualification",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "volume-tier-qualification",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "growth-incentive-calculation",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "growth-incentive-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "deviated-pricing-reconciliation",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "deviated-pricing-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "new-location-allowance-tracking",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "new-location-allowance-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "promotional-allowance-calculation",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "promotional-allowance-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "private-label-incentive-tracking",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "private-label-incentive-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "freight-and-fuel-allowance-audit",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "freight-and-fuel-allowance-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "rebate-accrual-accounting",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "rebate-accrual-accounting",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "supplier-statement-matching",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-statement-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "claim-generation",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "claim-generation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "supplier-response-management",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-response-management",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "credit-and-cash-reconciliation",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "credit-and-cash-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "supplier-and-category-yield-analytics",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-and-category-yield-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "broker-agreement-library",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "broker-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "territory-customer-mapping",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "territory-customer-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "product-eligibility-registry",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "product-eligibility-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "distributor-depletion-ingestion",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "distributor-depletion-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "gross-sales-calculation",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "gross-sales-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "returns-deduction",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "returns-deduction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "promotion-exclusion",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "promotion-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "net-sales-calculation",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "net-sales-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "commission-tier-calculation",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "commission-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "draw-recovery-control",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "draw-recovery-control",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "statement-reconciliation",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "statement-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "duplicate-commission-detection",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "duplicate-commission-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "broker-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "broker-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "payment-correction",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "payment-correction",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "broker-territory-analytics",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/app.config.mjs",
+      "canonical": "broker-territory-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "platform-agreement-library",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "platform-agreement-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "restaurant-and-brand-registry",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "restaurant-and-brand-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "order-ingestion",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "order-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "pos-order-matching",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "pos-order-matching",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "commission-rate-validation",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "commission-rate-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "delivery-and-service-fee-audit",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "delivery-and-service-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "promotion-funding-allocation",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "promotion-funding-allocation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "refund-responsibility-analysis",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "refund-responsibility-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "cancellation-validation",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "cancellation-validation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "menu-price-and-tax-reconciliation",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "menu-price-and-tax-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "sponsored-listing-fee-audit",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "sponsored-listing-fee-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "chargeback-reconciliation",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "chargeback-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "settlement-statement-audit",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "settlement-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "platform-dispute-workflow",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "platform-dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "recovered-settlement-ledger",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "recovered-settlement-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "brand-platform-and-location-analytics",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/app.config.mjs",
+      "canonical": "brand-platform-and-location-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "supplier-program-library",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-program-library",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "approved-product-registry",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "approved-product-registry",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "franchise-location-mapping",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "franchise-location-mapping",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "distributor-purchase-ingestion",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "distributor-purchase-ingestion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "net-eligible-volume",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "net-eligible-volume",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "volume-tier-calculation",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "volume-tier-calculation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "growth-incentive",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "growth-incentive",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "marketing-allowance",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "marketing-allowance",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "quality-shortfall-credit",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "quality-shortfall-credit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "return-spoilage-exclusion",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "return-spoilage-exclusion",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "rebate-accrual-ledger",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "rebate-accrual-ledger",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "supplier-statement-audit",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "supplier-statement-audit",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "dispute-workflow",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "dispute-workflow",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "cash-credit-reconciliation",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "cash-credit-reconciliation",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "brand-supplier-analytics",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/app.config.mjs",
+      "canonical": "brand-supplier-analytics",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "analytics",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "sourceKey": "audit",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/frontend/src/App.jsx",
+      "canonical": "audit",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/recipes",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "recipes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/production",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "production",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/production-sheet",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "production-sheet",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/batches",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "batches",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ovens",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "ovens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/wholesale",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "wholesale",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/cakes",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "cakes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/inventory-alerts",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "inventory-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/suppliers",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "suppliers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/supplier-orders",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "supplier-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/batch-alerts",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "batch-alerts",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/allergens",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "allergens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/temperature",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "temperature",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/waste",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "waste",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/staff",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "staff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/reports",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/fresh-markdown",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "fresh-markdown",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/scaling",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "scaling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/forecast",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/marketing",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "marketing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/nutrition",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "nutrition",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/waste",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "waste",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/cake",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "cake",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/inventory",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/seasonal",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "seasonal",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/seasonal-forecast",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "seasonal-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/cost",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "cost",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/bottleneck",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "bottleneck",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/quality",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "quality",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/ai/history",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/recipes",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "recipes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/cakes",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cakes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Brew Log",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "brew-log",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Tank Management",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "tank-management",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Raw Materials",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "raw-materials",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Fermentation Logs",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "fermentation-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Packaging Runs",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "packaging-runs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Keg Tracking",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "keg-tracking",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Taproom POS",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "taproom-pos",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Distribution",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "distribution",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Lab Results",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "lab-results",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Equipment",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Events",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Loyalty Program",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "loyalty-program",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Financial Records",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "financial-records",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "CIP Schedules",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "cip-schedules",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Vendors",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "Batch Manager",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps/frontend/src/pages/FeaturePage.jsx",
+      "canonical": "batch-manager",
+      "kind": "definition"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "ai-history",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "canonical": "history",
+      "kind": "route"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "alerts",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "canonical": "alerts",
+      "kind": "route"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "sourceKey": "ai/fermentation-deviation",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "canonical": "fermentation-deviation",
+      "kind": "route"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/maintenance",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "maintenance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/work-orders",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "work-orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/parts",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "parts",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/diagnostics",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "diagnostics",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/compliance",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "compliance",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/vendors",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "vendors",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/energy",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "energy",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/costs",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "costs",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/technicians",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "technicians",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "/parts-triage",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "canonical": "parts-triage",
+      "kind": "definition"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "ai-lab",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "canonical": "lab",
+      "kind": "route"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "notifications",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "canonical": "messages",
+      "kind": "route"
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "sourceKey": "webhooks",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "canonical": "webhooks",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/brands",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "brands",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/menus",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "menus",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/kitchen-stations",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "kitchen-stations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "admin-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/recipes",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "recipes",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/packaging",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "packaging",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/drivers",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "drivers",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/delivery-zones",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "delivery-zones",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/scheduling",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/labor-scheduling",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "labor-scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/food-costs",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "food-costs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/platform-fees",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "platform-fees",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/revenue",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "revenue",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/profitability",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "profitability",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/quality-control",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "quality-control",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/temperature-logs",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "temperature-logs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/health-inspections",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "health-inspections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/cleaning",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "cleaning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/customers",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "clients",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/loyalty",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "loyalty",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/equipment",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "equipment",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/waste",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "waste",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/menu-optimization",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "menu-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/brand-concept",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "brand-concept",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/demand-forecast",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "demand-forecast",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/sentiment-analysis",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "sentiment-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/dynamic-pricing",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "admin-dynamic-pricing",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/social-media",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "social-media",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/site-selection",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "site-selection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/brand-portfolio-optimize",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "brand-portfolio-optimize",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/ingredient-substitution",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "ingredient-substitution",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/driver-route-optimization",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "driver-route-optimization",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/ai/cannibalization-detection",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "cannibalization-detection",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/prep-load-balancer",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "canonical": "prep-load-balancer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/menus",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "menus",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/scheduling",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "scheduling",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/temperature-logs",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "temperature",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/cleaning",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "cleaning",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "/loyalty",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/pages/Dashboard.jsx",
+      "canonical": "loyalty",
+      "kind": "definition"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "platform-webhook/events",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "calendar",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "auto-po/generate",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "auto-po-generate",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "auto-po/list",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "auto-po-list",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "temp-anomaly/scan",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "temp-anomaly-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "forecast-scheduler/run",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "forecast-scheduler-run",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "forecast-scheduler/list",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "auto-po-list",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "margin-guard/scan",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "temp-anomaly-scan",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "margin-guard/overrides",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "margin-guard-overrides",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "compliance",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "compliance",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "customer-comms",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "customer-comms",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "cf-agentic-kitchen-automation-prioritizing-",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "agentic-kitchen-automation-prioritizing",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "cf-cross-brand-cannibalization-detection-fl",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "cross-brand-cannibalization-detection-fl",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "cf-seasonal-menu-advisor-tracking-ingredien",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "seasonal-menu-advisor-tracking-ingredien",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "cf-delivery-zone-heat-map-with-surge",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "delivery-zone-heat-map-with-surge",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "cf-workforce-burnout-prediction-based-on-la",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "workforce-burnout-prediction-based-on-la",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "cf-camera-based-food-safety-monitor-detecti",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "camera-based-food-safety-monitor-detecti",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-ghost-kitchen-site-selection-ai",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "ghost-kitchen-site-selection-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-brand-portfolio-optimization",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "brand-portfolio-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-ingredient-substitution-ai",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "ingredient-substitution-ai",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-driver-route-optimization",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "admin-gap-ai-driver-route-optimization",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-video-based-quality-control",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "video-based-quality-control",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-payment-processing-surface",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "payment-processing-surface",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-vendor-supplier-directory-beyond-inve",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "vendor-supplier-directory-beyond-inve",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-real-time-websocket-order-board",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "real-time-websocket-order-board",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-multi-location-franchise-rollup",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "multi-location-franchise-rollup",
+      "kind": "route"
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "sourceKey": "gap-no-file-upload-module-for-menu",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "canonical": "file-upload-module-for-menu",
+      "kind": "route"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/allergens",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "allergens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/nutrition-healthcare",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "nutrition-healthcare",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/calories",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "calories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/price-optimizer",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "price-optimizer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/dish-recommender",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "dish-recommender",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/translations",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "translations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/ai-analysis",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "history",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/menu-engineer",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "menu-engineer",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/dietary-filters",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "dietary-filters",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/seasonal-rotation",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "seasonal-rotation",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/locations",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "locations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/staff",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "admin-staff",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/ingredient-costs",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "ingredient-costs",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/ai-cost-analysis",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "cost-analysis",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "/integrations",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "canonical": "connections",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "allergens",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/pages/Dashboard.tsx",
+      "canonical": "allergens",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "nutrition",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/pages/Dashboard.tsx",
+      "canonical": "nutrition",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "calories",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/pages/Dashboard.tsx",
+      "canonical": "calories",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "price",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/pages/Dashboard.tsx",
+      "canonical": "price",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "recommend",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/pages/Dashboard.tsx",
+      "canonical": "recommend",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "translations",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/pages/Dashboard.tsx",
+      "canonical": "translations",
+      "kind": "definition"
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "sourceKey": "plate-margin-reprice",
+      "source": "/Volumes/external/projects/AIMenuDigitizer",
+      "canonical": "plate-margin-reprice",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "api/v1/chat/completions",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "api-v1-chat-completions",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "purchase-recommend",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "purchase-recommend",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "cert-grade",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "cert-grade",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "market-trends",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "market-trends",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "menu-pairings",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "menu-pairings",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "cellar-allocation",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "cellar-allocation",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "auction-predict",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "auction-predict",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "tasting-event-guide",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "tasting-event-guide",
+      "kind": "route"
+    },
+    {
+      "project": "AIWineSpiritsinventorySommelier",
+      "sourceKey": "distributor-reorder",
+      "source": "/Volumes/external/projects/AIWineSpiritsinventorySommelier",
+      "canonical": "distributor-reorder",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "quote",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "quote",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "menu",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "menu",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "dietary",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "dietary",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "logistics",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "logistics",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "staff",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "staff",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "followup",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "followup",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "review",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "review",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "proposal",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "proposal",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "inventory",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "timeline",
+      "source": "/Volumes/external/projects/cateringService/frontend/src/pages/AIAssistant.jsx",
+      "canonical": "timeline",
+      "kind": "definition"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "menu-success",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "menu-success",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "dynamic-pricing",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "admin-dynamic-pricing",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "delivery-routing",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "delivery-routing",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "equipment-scheduling",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "equipment-scheduling",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "staffing-prediction",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "staffing-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "satisfaction-prediction",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "satisfaction-prediction",
+      "kind": "route"
+    },
+    {
+      "project": "cateringService",
+      "sourceKey": "supplier-autoorder",
+      "source": "/Volumes/external/projects/cateringService",
+      "canonical": "supplier-autoorder",
+      "kind": "route"
+    },
+    {
+      "project": "food-safety-recall-management-suite",
+      "sourceKey": "rules",
+      "source": "/Volumes/external/projects/food-safety-recall-management-suite/public/app.js",
+      "canonical": "rules",
+      "kind": "definition"
+    },
+    {
+      "project": "food-safety-recall-management-suite",
+      "sourceKey": "reports",
+      "source": "/Volumes/external/projects/food-safety-recall-management-suite/public/app.js",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "menu",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "menu",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "categories",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "categories",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "build-your-own",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "build-your-own",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "contact",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "contacts",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "checkout",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "checkout",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "offers",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "offers",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "order-tracking",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "order-tracking",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "returns-refunds",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "returns-refunds",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "faq",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "faq",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "support",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "support",
+      "kind": "route"
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "sourceKey": "privacy-policy",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "canonical": "privacy-policy",
+      "kind": "route"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/find-trucks",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "find-trucks",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/locations",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "locations",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/menu",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "menu",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/orders",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "orders",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/inventory",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "admin-inventory",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/financial",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "financial",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/analytics",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "reports",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/events",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "calendar",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "/permits",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "canonical": "permits",
+      "kind": "definition"
+    },
+    {
+      "project": "footTruck",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/footTruck",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "GenericOrderingServiceEnhanced",
+      "sourceKey": "GenericOrderingServiceEnhanced",
+      "source": "/Volumes/external/projects/GenericOrderingServiceEnhanced",
+      "canonical": "generic-ordering-service-enhanced",
+      "kind": "source-workflow"
+    },
+    {
+      "project": "genericServiceOrder",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/genericServiceOrder",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "genericServiceOrder",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/genericServiceOrder",
+      "canonical": "users",
+      "kind": "route"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Staff",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "admin-staff",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Schedule",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "schedule",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "TimeClock",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "time-clock",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "TipDistribution",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "tip-distribution",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "PerformanceRecord",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "performance-record",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "TrainingRecord",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "training-record",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Table",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "table",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Reservation",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "reservation",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Waitlist",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "waitlist",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "MenuCategory",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "menu-category",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "MenuItem",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "menu-item",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "ModifierGroup",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "modifier-group",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Modifier",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "modifier",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "MenuItemModifierGroup",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "menu-item-modifier-group",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Ingredient",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "ingredient",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "MenuItemIngredient",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "menu-item-ingredient",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Vendor",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "vendor",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "PurchaseOrder",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "purchase-order",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "PurchaseOrderItem",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "purchase-order-item",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "StockMovement",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "stock-movement",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "WasteRecord",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "waste-record",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Order",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "order",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "OrderEvent",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "order-event",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "InventoryReservation",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "inventory-reservation",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "InventoryReservationLine",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "inventory-reservation-line",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "PaymentAttempt",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "payment-attempt",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Refund",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "refund",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "WebhookEvent",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "webhook-event",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "OutboxEvent",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "outbox-event",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "OrderItem",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "order-item",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "OrderItemModifier",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "order-item-modifier",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "DeliveryInfo",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "delivery-info",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Payment",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "payment",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "SplitCheck",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "split-check",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "SplitCheckItem",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "split-check-item",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Customer",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "clients",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "LoyaltyPoints",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "loyalty-points",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "LoyaltyTransaction",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "loyalty-transaction",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Feedback",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "feedback",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "AIRecommendation",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "airecommendation",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "DemandForecast",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "demand-forecast",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "SalesReport",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "sales-report",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Integration",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "integration",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "IntegrationLog",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "integration-log",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Promotion",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "promotion",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Notification",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "notification",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "NotificationTemplate",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "notification-template",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Recipe",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "recipe",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "Location",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "location",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "AiResult",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "result",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "DynamicPriceSuggestion",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "dynamic-price-suggestion",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "NoShowRiskScore",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "no-show-risk-score",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "TipFairnessReport",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "tip-fairness-report",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "ConciergeMessage",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "concierge-message",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "OperationReceipt",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "operation-receipt",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "OperationAudit",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "operation-audit",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "RestaurantAiRun",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "restaurant-ai-run",
+      "kind": "schema"
+    },
+    {
+      "project": "independentRestaurant",
+      "sourceKey": "RestaurantKnowledge",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "canonical": "restaurant-knowledge",
+      "kind": "schema"
+    },
+    {
+      "project": "OrderingServiceText2",
+      "sourceKey": "orders",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "canonical": "orders",
+      "kind": "route"
+    },
+    {
+      "project": "OrderingServiceText2",
+      "sourceKey": "categories",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "canonical": "categories",
+      "kind": "route"
+    },
+    {
+      "project": "OrderingServiceText2",
+      "sourceKey": "menu-items",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "canonical": "menu-items",
+      "kind": "route"
+    },
+    {
+      "project": "OrderingServiceText2",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "canonical": "users",
+      "kind": "route"
+    },
+    {
+      "project": "test_food",
+      "sourceKey": "verify-email",
+      "source": "/Volumes/external/projects/test_food",
+      "canonical": "verify-email",
+      "kind": "route"
+    },
+    {
+      "project": "test_food",
+      "sourceKey": "posts",
+      "source": "/Volumes/external/projects/test_food",
+      "canonical": "posts",
+      "kind": "route"
+    },
+    {
+      "project": "test_food",
+      "sourceKey": "files",
+      "source": "/Volumes/external/projects/test_food",
+      "canonical": "documents",
+      "kind": "route"
+    },
+    {
+      "project": "test_food",
+      "sourceKey": "users",
+      "source": "/Volumes/external/projects/test_food",
+      "canonical": "users",
+      "kind": "route"
+    }
+  ],
+  "ignored": [
+    {
+      "project": "ai-beverage-depletion-allowance-reconciliation",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-beverage-depletion-allowance-reconciliation/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "about",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "privacy",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "terms",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/blog/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/orders/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "login",
+      "source": "/Volumes/external/projects/ai-food-flow-order",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/admin/inventory/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/admin/staff/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/admin/schedules/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "/admin/reviews/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-food-flow-order",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "ai-foodservice-distributor-rebate-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-foodservice-distributor-rebate-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-foodservice-manufacturer-broker-commission-audit",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-foodservice-manufacturer-broker-commission-audit/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-restaurant-delivery-platform-commission-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-restaurant-delivery-platform-commission-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "ai-restaurant-franchise-food-cost-rebate-recovery",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/ai-restaurant-franchise-food-cost-rebate-recovery/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "/dashboard",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "/delivery",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "delivery",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIBakeryProductionManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBakeryProductionManager",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "/feature/:featureName",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "/ai/:aiFeature",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIBreweryCraftBeverageOps",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIBreweryCraftBeverageOps",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "/",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AICommercialKitchenEquipmentMaintenance",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AICommercialKitchenEquipmentMaintenance",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "/custom",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager/frontend/src/App.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "/platform-webhook/:platform",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "custom",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "insights/timeline",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIGhostKitchenNetworkManager",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIGhostKitchenNetworkManager",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "/",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "/custom-views",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/AIMenuDigitizer/frontend/src/components/Layout.tsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/AIMenuDigitizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/AIMenuDigitizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "login",
+      "source": "/Volumes/external/projects/AIMenuDigitizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "/verify-email/:token",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "/menu/:id/view",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "menu/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "settings",
+      "source": "/Volumes/external/projects/AIMenuDigitizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "AIMenuDigitizer",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/AIMenuDigitizer",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "food-safety-recall-management-suite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/food-safety-recall-management-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "food-safety-recall-management-suite",
+      "key": "ai-center",
+      "source": "/Volumes/external/projects/food-safety-recall-management-suite/public/app.js",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "key": "about",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "key": "login",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "FoodOrderingWebSite",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/FoodOrderingWebSite",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "footTruck",
+      "key": "/",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "footTruck",
+      "key": "/settings",
+      "source": "/Volumes/external/projects/footTruck/frontend/src/components/Layout.jsx",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "footTruck",
+      "key": "login",
+      "source": "/Volumes/external/projects/footTruck",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "footTruck",
+      "key": "register",
+      "source": "/Volumes/external/projects/footTruck",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "footTruck",
+      "key": "/pre-order/:truckId",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "footTruck",
+      "key": "/*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "footTruck",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "footTruck",
+      "key": "settings",
+      "source": "/Volumes/external/projects/footTruck",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "login",
+      "source": "/Volumes/external/projects/genericServiceOrder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "register",
+      "source": "/Volumes/external/projects/genericServiceOrder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "/verify-email/:token",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "/sectors/:name",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "settings",
+      "source": "/Volumes/external/projects/genericServiceOrder",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "genericServiceOrder",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "independentRestaurant",
+      "key": "Settings",
+      "source": "/Volumes/external/projects/independentRestaurant",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "codex/custom-viz",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "codex/operations",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "login",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "register",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "/verify-email/:token",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "/orders/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "/categories/:id/menu",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "/menu-items/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "profile",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "custom-views",
+      "source": "/Volumes/external/projects/OrderingServiceText2",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "OrderingServiceText2",
+      "key": "*",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "test_food",
+      "key": "/",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "test_food",
+      "key": "login",
+      "source": "/Volumes/external/projects/test_food",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "test_food",
+      "key": "register",
+      "source": "/Volumes/external/projects/test_food",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "test_food",
+      "key": "dashboard",
+      "source": "/Volumes/external/projects/test_food",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "test_food",
+      "key": "profile",
+      "source": "/Volumes/external/projects/test_food",
+      "reason": "Authentication, configuration, container or utility represented by the shared workspace."
+    },
+    {
+      "project": "test_food",
+      "key": "/posts/new",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "test_food",
+      "key": "/posts/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "test_food",
+      "key": "/files/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    },
+    {
+      "project": "test_food",
+      "key": "/users/:id",
+      "reason": "Home, dynamic record action, callback or fallback route."
+    }
+  ],
+  "migrationWarnings": [
+    {
+      "feature": "distributor-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-sku-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "territory-account-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "depletion-report-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "account-eligibility-validation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "promotional-period-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "billback-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "display-allowance-evidence",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-claim-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "distributor-deduction-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-approval-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-memo-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "accrual-true-up",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-distributor-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "item-and-category-master",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "purchase-and-receipt-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-qualification",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "growth-incentive-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "deviated-pricing-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "new-location-allowance-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "promotional-allowance-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "private-label-incentive-tracking",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "freight-and-fuel-allowance-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-accrual-accounting",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-statement-matching",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "claim-generation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-response-management",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "credit-and-cash-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-and-category-yield-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broker-agreement-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "territory-customer-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "product-eligibility-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "distributor-depletion-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "gross-sales-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "returns-deduction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "promotion-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "net-sales-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "commission-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "draw-recovery-control",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "statement-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "duplicate-commission-detection",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broker-dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "payment-correction",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "broker-territory-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-program-library",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "approved-product-registry",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "franchise-location-mapping",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "distributor-purchase-ingestion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "net-eligible-volume",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "volume-tier-calculation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "growth-incentive",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "marketing-allowance",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "quality-shortfall-credit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "return-spoilage-exclusion",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "rebate-accrual-ledger",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "supplier-statement-audit",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "dispute-workflow",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "cash-credit-reconciliation",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "feature": "brand-supplier-analytics",
+      "reason": "Source calculation module missing; native records/drafts only."
+    },
+    {
+      "project": "GenericOrderingServiceEnhanced",
+      "reason": "No structured web feature declarations extracted. Source-specific engine/UI migration remains required."
+    }
+  ]
+}
